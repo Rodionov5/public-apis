@@ -238,6 +238,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 ### Documents & Productivity
 API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
+| DynamicDocs | JSON to PDF based on templates written in LaTeX | `apiKey` | Yes | Unknown | [Go!](https://advicement.io) |
 | File.io | File Sharing | No | Yes | Unknown | [Go!](https://www.file.io) |
 | Mercury | Web parser | `apiKey` | Yes | Unknown | [Go!](https://mercury.postlight.com/web-parser/) |
 | pdflayer | HTML/URL to PDF | No | Yes | Unknown | [Go!](https://pdflayer.com) |
